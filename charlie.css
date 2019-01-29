@@ -40,3 +40,9 @@ h1 {
   font-weight: 700;
   font-size: 5em;
 }
+
+.btn-primary:focus,
+.btn-primary:active{
+    box-shadow:none;
+    outline:0px;
+}
